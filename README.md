@@ -48,11 +48,3 @@ Each model is evaluated using:
 - **MAE** – Mean Absolute Error
 
 A comparison table is provided in the notebook for side-by-side evaluation.
-
----
-
-## 🧪 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/retail-forecast-comparison.git
